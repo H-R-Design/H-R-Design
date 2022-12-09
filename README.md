@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hana
 - 👀 I’m interested in Design, creative tech and music
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Apps and Web Apps that are enrich peoples lives! 
+- 💞️ I’m looking to collaborate on Apps and Web Apps that enrich peoples lives! 
 - 📫 How to reach me visit hanarobinson.design
 
 <!---
